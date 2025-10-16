@@ -20,7 +20,6 @@ Cada projeto está em sua própria pasta, mas todos compartilham o mesmo reposit
 - Projetos **independentes** — testáveis separadamente.  
 - Ótimo para **estudo de scraping, HTML e formatação de dados**.  
 - Cada pasta funciona como um **mini-lab prático** para demonstração e aprendizado.  
-- Recomendado: não commitar `build/`, `dist/`, arquivos binários ou `.pyc`; mantenha o repo só com código-fonte e configs.
 
 ---
 
