@@ -1,27 +1,31 @@
 # 📰 Noticias_Projetos
 
-Centralizando 3 projetos de notícias em HTML e TeX, todos funcionais e prontos para estudo ou demonstração prática.  
-Cada projeto está em sua própria pasta, mas todos compartilhando o mesmo repositório para portfólio limpo.
+Centralizando **3 projetos de notícias** em **HTML e TeX**, todos funcionais e prontos para **estudo ou demonstração prática**.  
+Cada projeto está em sua própria pasta, mas todos compartilham o mesmo repositório para manter o portfólio limpo e organizado.
 
 ---
 
 ## 📂 Projetos
 
-| Projeto       | Tecnologia | Descrição | Como testar |
-|--------------|------------|-----------|------------|
-| **G1**       | TeX / HTML | Scraper / página de notícias do G1, captura e formatação de notícias para visualização ou estudo. | `cd G1` → abra os arquivos HTML/TeX no navegador ou editor |
-| **Famosos**  | HTML       | Mini site com notícias de celebridades, organizado e fácil de navegar. | `cd Famosos` → abra `index.html` no navegador |
-| **Ofuxico**  | HTML       | Scraper / página de notícias de entretenimento, pronto para visualização e aprendizado. | `cd Ofuxico` → abra os arquivos HTML no navegador |
+| Projeto      | Descrição                                    |
+|--------------|-----------------------------------------------|
+| **G1**       | Notícias em HTML extraídas do portal G1      |
+| **Famosos**  | Notícias sobre celebridades e cultura pop    |
+| **Ofuxico**  | Conteúdo variado de entretenimento e curiosidades |
 
 ---
 
-## ⚡ Dicas rápidas
-- Projetos independentes, podem ser testados rapidamente.  
-- Ótimo para estudo de scraping, HTML e formatação de notícias.  
-- Cada pasta funciona como mini-lab para demonstração ou aprendizado.
+## ⚡ Dicas Rápidas
+
+- Projetos **independentes** — testáveis separadamente.  
+- Ótimo para **estudo de scraping, HTML e formatação de dados**.  
+- Cada pasta funciona como um **mini-lab prático** para demonstração e aprendizado.  
+- Recomendado: não commitar `build/`, `dist/`, arquivos binários ou `.pyc`; mantenha o repo só com código-fonte e configs.
 
 ---
 
-## 🧠 Raciocínio do Hacker
-Agrupar pequenos projetos relacionados limpa o perfil e facilita a demonstração rápida de skills.
+## 🚀 Como executar (exemplo rápido)
 
+```bash
+git clone https://github.com/LightProgrammer000/Noticias_Projeto.git
+cd Noticias_Projeto
