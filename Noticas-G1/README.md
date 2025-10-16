@@ -7,7 +7,6 @@ O **Noticas-G1** é um projeto desenvolvido em Python com o objetivo de realizar
 ## Funcionalidades
 
 - **Extração de Notícias**: Coleta títulos, resumos e links das últimas notícias publicadas no G1.
-- **Armazenamento de Dados**: Salva as notícias extraídas em um arquivo CSV para posterior análise ou processamento.
 - **Interface Gráfica**: Apresenta os dados coletados de forma visualmente atraente utilizando a biblioteca `tkinter`.
 
 ## Tecnologias Utilizadas
